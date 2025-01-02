@@ -1,7 +1,7 @@
 {
-  "id": "nonnis-talog",
-  "name": "Nonnis Custom Apps",
-  "description": "A catalog of my custom apps for TrueNAS Scale.",
+  "id": "nonnis-catalog",
+  "name": "Nonni's Apps",
+  "description": "A catalog for Nonni's custom apps",
   "type": "helm",
   "url": "https://github.com/nonniv/nonnis-apps.git",
   "version": "1.0.0"
