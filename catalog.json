@@ -3,7 +3,8 @@
 	"postgresql" : {
 		"name":"Postgresql",
 		"categories" : ["database"]
-	}
+	},
+	"location": "/__w/charts/postgresql"
   }
 }
 
