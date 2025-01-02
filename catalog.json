@@ -1,5 +1,5 @@
 {
-  "id": "nonnis-catalog",
+  "id": "nonniscatalog",
   "name": "Nonni's Apps",
   "description": "A catalog for Nonni's custom apps",
   "type": "helm",
