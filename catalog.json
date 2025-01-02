@@ -1,9 +1,6 @@
 {
-  "id": {"nonniscatalog"},
-  "name": "Nonni's Apps",
-  "description": "A catalog for Nonni's custom apps",
-  "type": "helm",
-  "url": "https://github.com/nonniv/nonnis-apps.git",
-  "version": "1.0.0"
+  "charts" : {
+	"postgresql" : {}
+  }
 }
 
