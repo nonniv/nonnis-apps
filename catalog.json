@@ -2,7 +2,7 @@
   "charts" : {
 	"postgresql" : {
 		"name":"Postgresql",
-		"Categories" : ["database"]
+		"categories" : ["database"]
 	}
   }
 }
