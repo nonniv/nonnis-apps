@@ -1,6 +1,8 @@
 {
   "charts" : {
-	"postgresql" : {}
+	"postgresql" : {
+		"name":"Postgresql"
+	}
   }
 }
 
